@@ -7,7 +7,7 @@ I’m a Melbourne-based junior full-stack software engineer with 5 years of expe
 </p>
 
 <p align="justify">
-I have recently completed a 12-week Software Engineering Immersive Bootcamp, and I’m eager to leverage my problem-solving abilities, communication skills and adaptability, in tackling new challenges and providing solutions both in front-end and back-end development. I'm thrilled about the opportunities ahead and eager to absorb knowledge and contribute in a collaborative team environment.
+I recently completed a 12-week Software Engineering Immersive Bootcamp, and I’m eager to leverage my problem-solving abilities, communication skills and adaptability, in tackling new challenges and providing solutions both in front-end and back-end development. I'm thrilled about the opportunities ahead and eager to absorb knowledge and contribute in a collaborative team environment.
 </p>
 
 <p align="justify">
@@ -21,8 +21,6 @@ I am always interested in meeting new people in the industry so please feel free
 <strong><a href="https://christianleong.surge.sh/">Portfolio Website</a></strong>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianleong&label=Profile%20views&color=0e75b6&style=flat" alt="christianleong" /> </p>
-
-- 🌱 I’m currently learning **TypeScript**
 
 - 📄 [Resume](https://drive.google.com/file/d/1a-ZbiUdjJa_k_Ec7zXydpynIct06kDMT/view)
 
