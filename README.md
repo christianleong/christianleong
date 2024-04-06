@@ -22,8 +22,6 @@ I am always interested in meeting new people in the industry so please feel free
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianleong&label=Profile%20views&color=0e75b6&style=flat" alt="christianleong" /> </p>
 
-- 📄 [Resume](https://drive.google.com/file/d/1a-ZbiUdjJa_k_Ec7zXydpynIct06kDMT/view)
-
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:christianleong@gmail.com)](mailto:christianleong@gmail.com)
