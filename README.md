@@ -52,5 +52,5 @@ I am always interested in meeting new people in the industry so please feel free
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianleong&show_icons=true&locale=en" alt="christianleong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianleong&" alt="christianleong" /></p>
+
 
